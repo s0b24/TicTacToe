@@ -27,7 +27,7 @@ PVP režīma ekrāns ar spēlētāja 1 un spēlētāja 2 vārdu ievadīšanu u
 Piemērs  
 ![screenshot_4](https://github.com/user-attachments/assets/2966c2b5-4304-4abd-b07f-dcf7efdc0934)
   
-Spēles gājiens, kurā spēlētājs 1 sāk pirmais, jo viņam ir 'X'. Ir poga "Play Again", kas ļauj spēlēt vēlreiz un poga "Home", kas atgriež uz sākuma ekrānu. Spēles laukums ir izvedidots kā 3x3 pogas režģis, kurā redzami simboli ".", tie norāda uz tukšām šūnām.  
+Spēles gājiens, kurā spēlētājs 1 sāk pirmais, jo viņam ir 'X'. Ir poga 'Play Again', kas ļauj spēlēt vēlreiz un poga 'Home', kas atgriež uz sākuma ekrānu. Spēles laukums ir izvedidots kā 3x3 pogas režģis, kurā redzami simboli '.', tie norāda uz tukšām šūnām.  
 ![screenshot_5](https://github.com/user-attachments/assets/c79b1ac7-2eb3-41bb-8313-34adbe907fab)
   
 Spēle ir beigusies - ir zināms uzvarētājs un zaudētājs. Spēlē var būt arī neizšķirts gadījums, ja nav uzvarētāja un zaudētāja.
