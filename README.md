@@ -11,17 +11,17 @@ The TicTacToe folder in the repository contains the main files I created while b
 
 The ZIP file includes the entire project.
 
-Vladislavs Boičenko 231RDB387 12.grupa
-  
+Vladislavs Boičenko 231RDB387 12.grupa  
+
 Spēles apraksts:
-  
-Tic Tac Toe spēles sākuma ekrāns.  
+
+Tic Tac Toe spēles sākuma ekrāns. Poga 'Play' atver režīma izvēles ekrānu.  
 ![screenshot_1](https://github.com/user-attachments/assets/c34cf4f1-8474-4e4c-b0af-34b131915645)
   
-Spēles režīma izvēles ekrāns. Iekšā ir PVP un PVC režīms.  
+Spēles režīma izvēles ekrāns. Iekšā ir PVP un PVC režīms. Poga 'PVP' atver PVP režīma ekrānu. Poga 'PVC' atver PVC režīma ekrānu.  
 ![screenshot_2](https://github.com/user-attachments/assets/545616da-d7ea-43b2-98e7-7cb460762ce3)
   
-PVP režīma ekrāns ar spēlētāja 1 un spēlētāja 2 vārdu ievadīšanu un saglabāšanu.  
+PVP režīma ekrāns ar spēlētāja 1 un spēlētāja 2 vārdu ievadīšanu un saglabāšanu. Poga 'SUBMIT NAMES' saglabā spēlētāju vārdus un nosūta ziņu spēles algoritmam, norādot, ka jāizmanto PVP funkcija.  
 ![screenshot_3](https://github.com/user-attachments/assets/b9ae14a2-6b87-4da6-9bc5-ed15e621835c)
   
 Piemērs  
@@ -34,7 +34,7 @@ Spēle ir beigusies - ir zināms uzvarētājs un zaudētājs. Spēlē var būt a
 Ja ir uzvarētājs, tad spēle bloķē 3x3 pogu režģi, lai vairs nevarētu ievadīt 'X' vai 'O'.  
 ![screenshot_6](https://github.com/user-attachments/assets/d5a02803-bb3a-4673-a074-aad2aafb2dcb)
   
-PVC režīma ekrāns ar spēlētāja vārda ievadīšanu un saglabāšanu.  
+PVC režīma ekrāns ar spēlētāja vārda ievadīšanu un saglabāšanu. Poga 'SUBMIT NAME' saglabā spēlētāja vārdu un nosūta ziņu spēles algoritmam, norādot, ka jāizmanto PVC funkcija.  
 ![screenshot_7](https://github.com/user-attachments/assets/6b4e18f9-d2ac-413a-bd93-f31d2b0f5b52)
   
 Piemērs  
