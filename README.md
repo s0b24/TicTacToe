@@ -12,3 +12,6 @@ The TicTacToe folder in the repository contains the main files I created while b
 The ZIP file includes the entire project.
 
 Vladislavs Boičenko 231RDB387 12.grupa
+
+![screenshot_1](https://github.com/user-attachments/assets/c34cf4f1-8474-4e4c-b0af-34b131915645)
+
